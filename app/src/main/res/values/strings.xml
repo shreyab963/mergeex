@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SignUp Login Firebase</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_an_user_login"><u>Already an user? Login.</u></string>
+    <string name="register_with_us_today">Register with us, today!</string>
+    <string name="login">Login</string>
+    <string name="not_yet_registered_sign_up"><u>Not yet registered? Sign Up.</u></string>
+    <string name="login_title">Welcome back!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo">Logo</string>
+    <string name="invis_spacing">invis spacing</string>
+    <string name="welcome_to_haleth">Welcome to HALETH!</string>
+</resources>
