@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/home"
+        />
+    <item
+        android:title="Alarm"
+        android:icon="@drawable/baseline_alarm_24"
+        android:id="@+id/alarm"
+        />
+    <item
+        android:title="Calendar"
+        android:icon="@drawable/baseline_calendar_month_24"
+        android:id="@+id/calendar"
+        />
+    <item
+        android:title="Cookbook"
+        android:icon="@drawable/baseline_menu_book_24"
+        android:id="@+id/cookbook"
+        />
+    <item
+        android:title="Fitness"
+        android:icon="@drawable/baseline_fitness_center_24"
+        android:id="@+id/fitness"
+        />
+</menu>

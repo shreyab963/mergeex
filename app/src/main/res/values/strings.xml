@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SignUp Login Firebase</string>
+    <string name="api_key">2c63d97298304f54ab320ad9cf6830a3</string>
+    <string-array name="tags">
+        <item>main course</item>
+        <item>side dish</item>
+        <item>dessert</item>
+        <item>appetizer</item>
+        <item>salad</item>
+        <item>bread</item>
+        <item>breakfast</item>
+        <item>soup</item>
+        <item>beverage</item>
+        <item>sauce</item>
+        <item>marinade</item>
+        <item>fingerfood</item>
+        <item>snack</item>
+        <item>drink</item>
+    </string-array>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_an_user_login"><u>Already an user? Login.</u></string>
+    <string name="register_with_us_today">Register with us, today!</string>
+    <string name="login">Login</string>
+    <string name="not_yet_registered_sign_up"><u>Not yet registered? Sign Up.</u></string>
+    <string name="login_title">Welcome back!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
