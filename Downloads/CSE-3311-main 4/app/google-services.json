@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540625217293",
+    "project_id": "signup-login-firebase-haleth",
+    "storage_bucket": "signup-login-firebase-haleth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540625217293:android:1b55867b9601f3972ef244",
+        "android_client_info": {
+          "package_name": "com.example.signuploginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540625217293-sal45apufqcc4nesbas71khgmoda0rdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAok_Wxk9rXnVObaN_qS3s6sVp1TXFlEps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540625217293-sal45apufqcc4nesbas71khgmoda0rdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
